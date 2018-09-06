@@ -1,0 +1,78 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "",
+    "skills": "",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Arham Jain",
+    "email": "arhamjain@gmail.com",
+    "phone": "(517) 215-6999",
+    "website": "ajusa.github.io",
+    "location": {
+      "address": "Ann Arbor, MI"
+    }
+  },
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "location": "Ann Arbor",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "endDate": "May 2022",
+      "gpa": "4.0",
+      "startDate": "Sep 2018"
+    }
+  ],
+  "work": [
+    {
+      "company": "",
+      "location": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
