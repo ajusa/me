@@ -1,128 +1,142 @@
 {
-  "selectedTemplate": 1,
-  "headings": {
-    "work": "",
-    "skills": "",
-    "projects": "",
-    "awards": ""
-  },
-  "basics": {
-    "name": "Arham Jain",
-    "email": "arhamjain@gmail.com",
-    "phone": "(517) 215-6999",
-    "website": "ajusa.github.io",
-    "location": {
-      "address": "Ann Arbor, MI"
-    }
-  },
-  "education": [
+    "selectedTemplate": 1,
+    "headings":
     {
-      "institution": "University of Michigan",
-      "location": "Ann Arbor, MI",
-      "area": "Computer Science",
-      "studyType": "BS",
-      "endDate": "Present",
-      "gpa": "4.0",
-      "startDate": "Sep 2018"
+        "work": "",
+        "skills": "",
+        "projects": "",
+        "awards": ""
+    },
+    "basics":
+    {
+        "name": "Arham Jain",
+        "email": "arhamjain@gmail.com",
+        "phone": "(517) 215-6999",
+        "website": "ajusa.github.io",
+        "location":
+        {
+            "address": "Ann Arbor, MI"
+        }
+    },
+    "education": [
+    {
+        "institution": "University of Michigan",
+        "location": "Ann Arbor, MI",
+        "area": "Computer Science",
+        "studyType": "BS",
+        "endDate": "Present",
+        "gpa": "4.0",
+        "startDate": "Sep 2018"
     },
     {
-      "institution": "Michigan State University, MI",
-      "location": "East Lansing",
-      "studyType": "Dual Enrollment",
-      "area": "Computer Science",
-      "gpa": "4.0",
-      "startDate": "Sep 2017",
-      "endDate": "May 2018"
+        "institution": "Michigan State University, MI",
+        "location": "East Lansing",
+        "studyType": "Dual Enrollment",
+        "area": "Computer Science",
+        "gpa": "4.0",
+        "startDate": "Sep 2017",
+        "endDate": "May 2018"
     },
     {
-      "institution": "Okemos High School",
-      "location": "Okemos, MI",
-      "gpa": "3.97",
-      "startDate": "Sep 2014",
-      "endDate": "June 2018"
-    }
-  ],
-  "work": [
+        "institution": "Okemos High School",
+        "location": "Okemos, MI",
+        "gpa": "3.97",
+        "startDate": "Sep 2014",
+        "endDate": "June 2018"
+    }],
+    "work": [
     {
-      "company": "State of Michigan, DTMB",
-      "location": "Lansing, MI",
-      "position": "IT Student Assistant",
-      "website": "",
-      "highlights": [
-        "Part of ESC Team, which implemented all Firewall Rule Requests",
-        "Implemented an automated testing framework for our portal",
-        "Created in house communication app for Android"
-      ],
-      "startDate": "June 2018",
-      "endDate": "August 2018"
+        "company": "State of Michigan, DTMB",
+        "location": "Lansing, MI",
+        "position": "IT Student Assistant",
+        "website": "",
+        "highlights": [
+            "Part of ESC Team, which implemented all Firewall Rule Requests",
+            "Implemented an automated testing framework for our portal",
+            "Created in house communication app for Android"
+        ],
+        "startDate": "June 2018",
+        "endDate": "August 2018"
     },
     {
-      "highlights": [
-        "Created entire front end site",
-        "Allow logging, editing, and deleting child records through UI",
-        "Integrate with Google Home"
-      ],
-      "company": "GrowthChart",
-      "position": "Lead Frontend Developer",
-      "location": "Madison, WI",
-      "startDate": "June 2017",
-      "endDate": "Present"
+        "highlights": [
+            "Created entire front end site",
+            "Allow logging, editing, and deleting child records through UI",
+            "Integrate with Google Home"
+        ],
+        "company": "GrowthChart",
+        "position": "Lead Frontend Developer",
+        "location": "Madison, WI",
+        "startDate": "June 2017",
+        "endDate": "Present"
     },
     {
-      "highlights": [
-        "Maintain and enhance code that analyzes and processes images of cells and provides many useful statistics about cell colonies"
-      ],
-      "company": "Michigan State University",
-      "position": "Lead Developer",
-      "location": "East Lansing, MI",
-      "startDate": "April 2016",
-      "endDate": "July 2018"
+        "highlights": [
+            "Maintain and enhance code that analyzes and processes images of cells and provides many useful statistics about cell colonies"
+        ],
+        "company": "Michigan State University",
+        "position": "Lead Developer",
+        "location": "East Lansing, MI",
+        "startDate": "April 2016",
+        "endDate": "July 2018"
     },
     {
-      "highlights": [
-        null
-      ],
-      "company": "FIRST Team 1504",
-      "position": "Lead Programmer, Lead Scout, CEO",
-      "location": "Okemos, MI",
-      "startDate": "Sept 2014",
-      "endDate": "Aug 2018"
-    }
-  ],
-  "skills": [
+        "highlights": [
+            null
+        ],
+        "company": "FIRST Team 1504",
+        "position": "Lead Programmer, Lead Scout, CEO",
+        "location": "Okemos, MI",
+        "startDate": "Sept 2014",
+        "endDate": "Aug 2018"
+    }],
+    "skills": [
     {
-      "name": "Programming Languages",
-      "level": "",
-      "keywords": [
-        null
-      ]
-    }
-  ],
-  "projects": [
+        "name": "Programming Languages",
+        "level": "",
+        "keywords": [
+            "C++",
+            "Borland C++",
+            "Javascript",
+            "Arduino/C",
+            "Java",
+            "CSS",
+            "HTML",
+            "Golang",
+            "Lua",
+            "R",
+            "Moonscript",
+            "D",
+            "Nim",
+            "Python",
+            "Markdown",
+            "JSON",
+            "YAML"
+        ]
+    }],
+    "projects": [
     {
-      "name": "",
-      "description": "",
-      "url": "",
-      "keywords": [
-        ""
-      ]
-    }
-  ],
-  "awards": [
+        "name": "",
+        "description": "",
+        "url": "",
+        "keywords": [
+            ""
+        ]
+    }],
+    "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "sections": [
-    "templates",
-    "profile",
-    "education",
-    "work",
-    "skills",
-    "projects",
-    "awards"
-  ]
+        "title": "",
+        "date": "",
+        "awarder": "",
+        "summary": ""
+    }],
+    "sections": [
+        "templates",
+        "profile",
+        "education",
+        "work",
+        "skills",
+        "projects",
+        "awards"
+    ]
 }
