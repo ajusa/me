@@ -113,6 +113,41 @@
             "JSON",
             "YAML"
         ]
+    },
+    {
+        "name": "Technical Skills",
+        "level": "",
+        "keywords": [
+            "RiotJS",
+            "Socket.io",
+            "NodeJS",
+            "ExpressJS",
+            "Flask",
+            "Ionic",
+            "Bootstrap",
+            "PureCSS",
+            "AngularJS",
+            "Arduino",
+            "PixiJS",
+            "Gin-Gonic (Golang)",
+            "Cuberite Plugins",
+            "Love2d",
+            "Tachyons CSS",
+            "Git/Github",
+            "Linux",
+            "DigitalOcean",
+            "VueJS 1 and 2",
+            "Web Scraping",
+            "Websockets",
+            "Restful API Development",
+            "Win32 API",
+            "NPM",
+            "Gulp",
+            "Yarn",
+            "Spectre CSS",
+            "Lit CSS",
+            "Firebase",
+        ]
     }],
     "projects": [
     {
